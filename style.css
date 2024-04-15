@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'rsfont';
+    src: url('./assets/yoster.ttf') format('truetype');
+}
+
+body {
+    font-family: 'rsfont';
+}
